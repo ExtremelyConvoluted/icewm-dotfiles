@@ -1,0 +1,12 @@
+# This is an example for IceWM's menu definition file.
+#
+# Place your variants in @CFGDIR@ or in $HOME/.icewm
+# since modifications to this file will be discarded when you
+# (re)install icewm.
+#
+prog Alacritty alacritty alacritty
+prog Firefox firefox firefox
+prog MultiMC bash MultiMC/MultiMC
+prog "Visual Studio Code" code code
+separator
+menuprog "Desktop Apps" folder xdg_menu --format icewm

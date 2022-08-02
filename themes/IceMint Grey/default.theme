@@ -1,0 +1,84 @@
+ThemeDescription="Mint Y Based theme"
+
+ThemeAuthor="ItzSelenux"
+
+Look=flat
+TitleBarHeight=20
+TitleBarJustify=50
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+
+BorderSizeX=4
+BorderSizeY=4
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="rgb:2b/2b/2b"
+ColorActiveBorder="rgb:2b/2b/2b"
+ColorActiveTitleBar="rgb:2b/2b/2b"
+ColorNormalTitleBar="rgb:2b/2b/2b"
+ColorNormalButton="rgb:2b/2b/2b"
+ColorNormalButtonText="rgb:ff/ff/ff"
+ColorNormalTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+
+ColorNormalMenu="rgb:2b/2b/2b"
+ColorActiveMenuItem="rgb:2b/2b/2b"
+ColorNormalMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:cc/cc/cc"
+ColorDisabledMenuItemText="rgb:ff/ff/ff"
+MenuFontNameXft = "regular:size=14"
+
+ColorMoveSizeStatus="rgb:8f/8f/8f"
+ColorMoveSizeStatusText="rgb:ff/ff/ff"
+ColorNormalWorkspaceButtonText="rgb:ff/ff/ff"
+
+ColorInputSelection="rgb:8f/8f/8f"
+
+#taskbar parameters
+ColorDefaultTaskBar="rgb:2b/2b/2b"
+ColorNormalTaskBarApp="rgb:2b/2b/2b"
+ColorNormalTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarApp="rgb:8f/8f/8f"
+ColorMinimizedTaskBarApp="rgb:2b/2b/2b"
+ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
+NormalTaskBarFontNameXft = "sans-serif:size=14.5"
+ActiveTaskBarFontNameXft = "sans-serif:size=14.5"
+
+#listbox
+ColorListBox="rgb:cc/cc/cc"
+ColorListBoxText="rgb:ff/ff/ff"
+ColorListBoxSelection="rgb:cc/cc/ff"
+ColorListBoxSelectionText="rgb:c0/c0/c0"
+
+#Dialog box
+ColorDialog="rgb:2b/2b/2b"
+
+#Tooltip text
+ColorToolTip="rgb:2b/2b/2b"
+ColorToolTipText="rgb:ff/ff/ff"
+
+#scrollbar
+ColorScrollBar="rgb:c0/c0/c0"
+ColorScrollBarSlider="rgb:c0/c0/c0"
+ColorScrollBarButtonArrow="rgb:c0/c0/c0"
+
+#Quick switch
+ColorQuickSwitch="rgb:2b/2b/2b"
+ColorQuickSwitchActive="rgb:8f/8f/8f"
+ColorQuickSwitchText="rgb:ff/ff/ff"
+
+ColorClock="rgb:2b/2b/2b"
+ColorClockText="rgb:ff/ff/ff"
+
+RolloverButtonsSupported=1
+
+#background parameters
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="wallpaper.jpg"
