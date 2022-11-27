@@ -108,7 +108,13 @@ TitleBarRollupButton=0
 # Disable possibility to move the base window, BNC 466827
 ClientWindowMouseActions=0
 
+# Hide unwanted features
 TaskBarShowMailboxStatus=0
-
-NetworkStatusDevice=enp3s0
 TaskBarShowNetStatus=0
+TaskBarShowWindowListMenu=0
+TaskBarShowShowDesktopButton=0
+TaskBarShowMEMStatus=0
+TaskBarShowWorkspaces=0
+
+# xterm is ugly
+CPUStatusCommand="alacritty -e htop"

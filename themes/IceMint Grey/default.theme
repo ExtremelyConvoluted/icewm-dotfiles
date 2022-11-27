@@ -27,11 +27,12 @@ ColorNormalTitleBarText="rgb:ff/ff/ff"
 ColorActiveTitleBarText="rgb:ff/ff/ff"
 
 ColorNormalMenu="rgb:2b/2b/2b"
+
 ColorActiveMenuItem="rgb:2b/2b/2b"
 ColorNormalMenuItemText="rgb:ff/ff/ff"
 ColorActiveMenuItemText="rgb:cc/cc/cc"
 ColorDisabledMenuItemText="rgb:ff/ff/ff"
-MenuFontNameXft = "regular:size=14"
+MenuFontNameXft = "regular:size=17"
 
 ColorMoveSizeStatus="rgb:8f/8f/8f"
 ColorMoveSizeStatusText="rgb:ff/ff/ff"
@@ -47,8 +48,10 @@ ColorActiveTaskBarAppText="rgb:ff/ff/ff"
 ColorActiveTaskBarApp="rgb:8f/8f/8f"
 ColorMinimizedTaskBarApp="rgb:2b/2b/2b"
 ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
-NormalTaskBarFontNameXft = "sans-serif:size=14.5"
-ActiveTaskBarFontNameXft = "sans-serif:size=14.5"
+NormalTaskBarFontNameXft = "sans-serif:size=17"
+ActiveTaskBarFontNameXft = "sans-serif:size=17"
+TaskBarGraphHeight=42
+TaskBarApmGraphWidth=12
 
 #listbox
 ColorListBox="rgb:cc/cc/cc"
@@ -72,11 +75,11 @@ ColorScrollBarButtonArrow="rgb:c0/c0/c0"
 ColorQuickSwitch="rgb:2b/2b/2b"
 ColorQuickSwitchActive="rgb:8f/8f/8f"
 ColorQuickSwitchText="rgb:ff/ff/ff"
+QuickSwitchHugeIcon=1
 
 ColorClock="rgb:2b/2b/2b"
 ColorClockText="rgb:ff/ff/ff"
-
-RolloverButtonsSupported=1
+ClockFontNameXft = "sans-serif:size=17"
 
 #background parameters
 DesktopBackgroundCenter=0
